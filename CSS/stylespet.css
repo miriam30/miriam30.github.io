@@ -1,0 +1,45 @@
+body {
+  background: linear-gradient(to bottom, #c1dee2 0%, #dde7dc 100%);
+}
+.header {
+  background-color: #b5c6e8;
+  text-align: center;
+  font: italic, 16px, fantasy;
+  color: #dde7dc;
+}
+h2 {
+  color: #64516c;
+}
+.intro {
+  font-style: italic;
+  color: #313844;
+}
+.intro2 {
+  color: #313845;
+}
+h4 {
+  color: #83b3c9;
+}
+.intro3 {
+  color: #313845;
+}
+.intro4 {
+  color: #313845;
+}
+.list2 {
+  width: auto;
+  float: right;
+  color: #417d95;
+}
+.image {
+  float: right;
+  display: block;
+    margin: auto;
+}
+.author {
+  color: #64516c;
+  font-size: 12px;
+}
+p.author {
+  font-size: 12px;
+}
