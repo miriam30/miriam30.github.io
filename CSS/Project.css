@@ -9,10 +9,19 @@ h1 {
   color: #234a56;
 }
 .header {
-  color: #edb18f;
+  color: #92c676;
 }
 #photo {
   float: center;
+}
+p {
+  color: #416c85;
+}
+#con {
+  color: #604d9e;
+}
+#con2 {
+  color: #604d9e;
 }
 .dropdown {
   position: relative;
@@ -70,4 +79,10 @@ h1 {
 .description3 {
   padding: 15px
   text-align: center;
+}
+h3 {
+  color: #d97b9c
+}
+.con3 {
+  color: #604d9e;
 }
