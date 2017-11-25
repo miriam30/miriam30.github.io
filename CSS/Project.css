@@ -1,15 +1,13 @@
 body {
-  background: linear-gradient(to bottom, #c1dee2 1%, #dde7dc 82%);
+background: linear-gradient(to bottom, #effbf7 10%, #3dbfc1 100%);
 }
-
 h1 {
   font-style: italic;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   border-style: outset;
-  border-color: #234a56;
+  border-color: #b5c6e8;
   color: #234a56;
 }
-
 .header {
   color: #edb18f;
 }
