@@ -1,15 +1,75 @@
 body {
-  background: color: #f8ebdc;
+  background: linear-gradient(to bottom, #c1dee2 1%, #dde7dc 82%);
 }
+
 h1 {
-  background-color: #cadfcf;
+  font-style: italic;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   border-style: outset;
-  border-width: medium;
-  border-color: #edb18f;
-  border-width: medium;
-  color: #c6b977;
+  border-color: #234a56;
+  color: #234a56;
 }
+
 .header {
   color: #edb18f;
-
+}
+#photo {
+  float: center;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropcontent {
+  display: none;
+  position: absolute;
+  background-color: #d5e3d4;
+  min-width: 180px
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown:hover .dropcontent {
+  display: block;
+}
+.description {
+  padding: 15px
+  text-align: center;
+}
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+.dropcontent2 {
+  display: none;
+  position: absolute;
+  background-color: #d5e3d4;
+  min-width: 180px
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown2:hover .dropcontent2 {
+  display: block;
+}
+.description2 {
+  padding: 15px
+  text-align: center;
+}
+.dropdown3 {
+  position: relative;
+  display: inline-block;
+}
+.dropcontent3 {
+  display: none;
+  position: absolute;
+  background-color: #d5e3d4;
+  min-width: 180px
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown3:hover .dropcontent3 {
+  display: block;
+}
+.description3 {
+  padding: 15px
+  text-align: center;
 }
