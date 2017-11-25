@@ -1,0 +1,15 @@
+body {
+  background: color: #f8ebdc;
+}
+h1 {
+  background-color: #cadfcf;
+  border-style: outset;
+  border-width: medium;
+  border-color: #edb18f;
+  border-width: medium;
+  color: #c6b977;
+}
+.header {
+  color: #edb18f;
+
+}
